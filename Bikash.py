@@ -49,14 +49,14 @@ async def start_(client: Client, message: Message):
 ┣❥︎ ᴍʏ ʙᴀʙʏ » [ᴘɪʀᴏᴋɪᴅ](https://t.me/pirokid)
 ┗━━━━━━━━━━━━━━━━━┛
 
-💞 ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
+💞 ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ » ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ
 ᴇɴᴊᴏʏ sᴜᴘᴇʀ ǫᴜᴀʟɪᴛʏ ᴄʜᴀᴛ.
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                        "ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ💙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ]
                 
            ]
@@ -73,7 +73,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴏ", url=f"https://t.me/noobcreator")
+                        "ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴏ💙", url=f"https://t.me/noobcreator")
                 ]
             ]
         ),
