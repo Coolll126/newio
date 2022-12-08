@@ -7,8 +7,8 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", "") 
-API_HASH = os.environ.get("API_HASH", "none") 
+API_ID = os.environ.get("API_ID", "16044697") 
+API_HASH = os.environ.get("API_HASH", "29dc4a6561338db7551e28c31fb8d15e") 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "none") 
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://userbot:userbot@cluster0.x6kstu2.mongodb.net/?retryWrites=true&w=majority")
 BOT_IMAGE = os.environ.get("BOT_IMAGE", "none")
