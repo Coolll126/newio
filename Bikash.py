@@ -7,10 +7,10 @@ import os
 import re
 
 
-API_ID = os.environ.get("API_ID", "none") 
+API_ID = os.environ.get("API_ID", "") 
 API_HASH = os.environ.get("API_HASH", "none") 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "none") 
-MONGO_URL = os.environ.get("MONGO_URL", "none")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://userbot:userbot@cluster0.x6kstu2.mongodb.net/?retryWrites=true&w=majority")
 BOT_IMAGE = os.environ.get("BOT_IMAGE", "none")
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "none")
 OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "none")
