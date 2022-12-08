@@ -40,12 +40,12 @@ async def start_(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{BOT_IMAGE}",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
-🥀ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ ᴀɪ ᴛᴇᴄʜɴᴏʟᴏɢʏ.\n\n📌 ᴍʏ ɴᴀᴍᴇ ɪs ᴇʟʟᴀ ғʀᴏᴍ ɪɴᴅɪs 🇮🇳\n\n /chatbot - [on|off] ᴛᴏ ᴄᴏɴᴛʀᴏʟ ᴍʏ sᴇᴛᴛɪɴɢ.
+🥀ᴀᴅᴠᴀɴᴄᴇ ᴄʜᴀᴛ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ ᴀɪ ᴛᴇᴄʜɴᴏʟᴏɢʏ.\n\n📌 ᴍʏ ɴᴀᴍᴇ ɪs ᴇʟʟᴀ ғʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳\n\n /chatbot - [on|off] ᴛᴏ ᴄᴏɴᴛʀᴏʟ ᴍʏ sᴇᴛᴛɪɴɢ.
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣❥︎ ᴍʏ ᴏᴡɴᴇʀ   » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{OWNER_USERNAME})
-┣❥︎ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{UPDATES_CHANNEL})
-┣❥︎ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ » [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](https://t.me/{SUPPORT_GROUP})
+┣❥︎ ᴍʏ ᴏᴡɴᴇʀ   » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/{OWNER_USERNAME})
+┣❥︎ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/{UPDATES_CHANNEL})
+┣❥︎ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ » [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/{SUPPORT_GROUP})
 ┣❥︎ ᴍʏ ʙᴀʙʏ » [ᴘɪʀᴏᴋɪᴅ](https://t.me/pirokid)
 ┗━━━━━━━━━━━━━━━━━┛
 
