@@ -9,13 +9,13 @@ import re
 
 API_ID = os.environ.get("API_ID", "16044697") 
 API_HASH = os.environ.get("API_HASH", "29dc4a6561338db7551e28c31fb8d15e") 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "none") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5621979401:AAHTctWsJIGn0WZ5nIR1UuSM76EdTz_gW5o") 
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://userbot:userbot@cluster0.x6kstu2.mongodb.net/?retryWrites=true&w=majority")
 BOT_IMAGE = os.environ.get("BOT_IMAGE", "none")
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "none")
-OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "none")
-SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "none")
-UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "none")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "GroupChatRbot")
+OWNER_USERNAME = os.environ.get("OWNER_USERNAME", "fLyLoNg")
+SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP", "NOOBCREATOR")
+UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "NOOBXCREATOR")
 
 
 bot = Client(
