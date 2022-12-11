@@ -9,7 +9,7 @@ import re
 
 API_ID = os.environ.get("API_ID", "16044697") 
 API_HASH = os.environ.get("API_HASH", "29dc4a6561338db7551e28c31fb8d15e") 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5621979401:AAHTctWsJIGn0WZ5nIR1UuSM76EdTz_gW5o") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5621979401:AAGneSATiId8WQPC-IxnThArJ6gGjaRnLfM") 
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://userbot:userbot@cluster0.x6kstu2.mongodb.net/?retryWrites=true&w=majority")
 BOT_IMAGE = os.environ.get("BOT_IMAGE", "https://te.legra.ph/file/27c0761524a076a1f899b.jpg")
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "GroupChatRbot")
